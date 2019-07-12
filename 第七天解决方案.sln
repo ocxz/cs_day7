@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_方法的练习复习-1", "_01_方法的练习复习-1\_01_方法的练习复习-1.csproj", "{AAECA594-0EAC-4AD8-9DDE-FDD7805940B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01_方法的练习复习-1", "_01_方法的练习复习-1\_01_方法的练习复习-1.csproj", "{AAECA594-0EAC-4AD8-9DDE-FDD7805940B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_飞行棋游戏", "_02_飞行棋游戏\_02_飞行棋游戏.csproj", "{91928FF2-2C3F-40EC-B126-9C166C778612}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AAECA594-0EAC-4AD8-9DDE-FDD7805940B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAECA594-0EAC-4AD8-9DDE-FDD7805940B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAECA594-0EAC-4AD8-9DDE-FDD7805940B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91928FF2-2C3F-40EC-B126-9C166C778612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91928FF2-2C3F-40EC-B126-9C166C778612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91928FF2-2C3F-40EC-B126-9C166C778612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91928FF2-2C3F-40EC-B126-9C166C778612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
